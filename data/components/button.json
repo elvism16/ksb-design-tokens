@@ -287,7 +287,7 @@
     "hover": {
       "bg": {
         "color": {
-          "value": "{color.white}",
+          "value": "{color.blue.100}",
           "type": "color"
         }
       },
@@ -299,7 +299,7 @@
       },
       "border": {
         "color": {
-          "value": "{color.white}",
+          "value": "{color.blue.100}",
           "type": "color"
         }
       }
