@@ -94,11 +94,11 @@
       "accent": {
         "error": {
           "red-300": {
-            "value": "#EC1C23",
+            "value": "#AD151A",
             "type": "color"
           },
           "red-200": {
-            "value": "#AD151A",
+            "value": "#EC1C23",
             "type": "color"
           },
           "red-100": {
@@ -108,11 +108,11 @@
         },
         "success": {
           "green-300": {
-            "value": "#0BB833",
+            "value": "#088C26",
             "type": "color"
           },
           "green-200": {
-            "value": "#088C26",
+            "value": "#0BB833",
             "type": "color"
           },
           "green-100": {
@@ -122,11 +122,11 @@
         },
         "warning": {
           "yellow-300": {
-            "value": "#FFC000",
+            "value": "#B08500",
             "type": "color"
           },
           "yellow-200": {
-            "value": "#B08500",
+            "value": "#FFC000",
             "type": "color"
           },
           "yellow-100": {
