@@ -87,6 +87,32 @@
       }
     }
   },
+  "text": {
+    "default": {
+      "label": {
+        "color": {
+          "value": "{color.blue.700}",
+          "type": "color"
+        }
+      }
+    },
+    "hover": {
+      "label": {
+        "color": {
+          "value": "{color.blue.500}",
+          "type": "color"
+        }
+      }
+    },
+    "active": {
+      "label": {
+        "color": {
+          "value": "{color.blue.700}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "secondary": {
     "default": {
       "bg": {
@@ -378,6 +404,14 @@
         }
       }
     },
+    "text": {
+      "label": {
+        "color": {
+          "value": "{color.neutral.500}",
+          "type": "color"
+        }
+      }
+    },
     "bg": {
       "color": {
         "value": "{color.neutral.300}",
@@ -388,6 +422,68 @@
       "color": {
         "value": "{color.neutral.300}",
         "type": "color"
+      }
+    }
+  },
+  "alert": {
+    "default": {
+      "bg": {
+        "color": {
+          "value": "{color.accent.error.red-200}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "color": {
+          "value": "{color.accent.error.red-200}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "color": {
+          "value": "{color.white}",
+          "type": "color"
+        }
+      }
+    },
+    "hover": {
+      "bg": {
+        "color": {
+          "value": "{color.accent.error.red-300}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "color": {
+          "value": "{color.accent.error.red-300}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "color": {
+          "value": "{color.white}",
+          "type": "color"
+        }
+      }
+    },
+    "active": {
+      "bg": {
+        "color": {
+          "value": "{color.accent.error.red-200}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "color": {
+          "value": "{color.accent.error.red-200}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "color": {
+          "value": "{color.white}",
+          "type": "color"
+        }
       }
     }
   }
