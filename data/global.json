@@ -277,20 +277,6 @@
         "type": "fontFamilies"
       }
     },
-    "text-decoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      },
-      "underline": {
-        "value": "underline",
-        "type": "textDecoration"
-      },
-      "line-through": {
-        "value": "line-through",
-        "type": "textDecoration"
-      }
-    },
     "line-height": {
       "1": {
         "value": "1",
@@ -327,24 +313,6 @@
       "default": {
         "value": "1.618",
         "type": "lineHeights"
-      }
-    },
-    "text-case": {
-      "uppercase": {
-        "value": "uppercase",
-        "type": "textCase"
-      },
-      "capitalize": {
-        "value": "capitalize",
-        "type": "textCase"
-      },
-      "lowercase": {
-        "value": "lowercase",
-        "type": "textCase"
-      },
-      "none": {
-        "value": "none",
-        "type": "textCase"
       }
     },
     "headline": {
@@ -488,7 +456,7 @@
       "description": "360px"
     },
     "md": {
-      "value": "37.5emn",
+      "value": "37.5em",
       "type": "other",
       "description": "600px"
     },
