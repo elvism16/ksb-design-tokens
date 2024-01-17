@@ -217,56 +217,6 @@
         "type": "fontWeights"
       }
     },
-    "size": {
-      "100": {
-        "value": "16px",
-        "type": "fontSizes"
-      },
-      "200": {
-        "value": "18px",
-        "type": "fontSizes"
-      },
-      "300": {
-        "value": "20px",
-        "type": "fontSizes"
-      },
-      "400": {
-        "value": "24px",
-        "type": "fontSizes"
-      },
-      "500": {
-        "value": "28px",
-        "type": "fontSizes"
-      },
-      "600": {
-        "value": "32px",
-        "type": "fontSizes"
-      },
-      "700": {
-        "value": "36px",
-        "type": "fontSizes"
-      },
-      "800": {
-        "value": "42px",
-        "type": "fontSizes"
-      },
-      "900": {
-        "value": "48px",
-        "type": "fontSizes"
-      },
-      "075": {
-        "value": "14px",
-        "type": "fontSizes"
-      },
-      "050": {
-        "value": "12px",
-        "type": "fontSizes"
-      },
-      "025": {
-        "value": "11px",
-        "type": "fontSizes"
-      }
-    },
     "family": {
       "sans": {
         "value": "Frutiger LT Std, -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif",
@@ -321,7 +271,7 @@
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.bold}",
           "lineHeight": "{font.line-height.275}",
-          "fontSize": "{font.size.800}"
+          "fontSize": "{fontSize.6xl}"
         },
         "type": "typography"
       },
@@ -330,7 +280,7 @@
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.bold}",
           "lineHeight": "{font.line-height.200}",
-          "fontSize": "{font.size.600}"
+          "fontSize": "{fontSize.4xl}"
         },
         "type": "typography"
       },
@@ -339,10 +289,68 @@
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.bold}",
           "lineHeight": "{font.line-height.150}",
-          "fontSize": "{font.size.400}"
+          "fontSize": "{fontSize.2xl}"
         },
         "type": "typography"
       }
+    }
+  },
+  "fontSize": {
+    "md": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "lg": {
+      "value": "18px",
+      "type": "fontSizes"
+    },
+    "xl": {
+      "value": "20px",
+      "type": "fontSizes"
+    },
+    "2xl": {
+      "value": "24px",
+      "type": "fontSizes"
+    },
+    "3xl": {
+      "value": "28px",
+      "type": "fontSizes"
+    },
+    "4xl": {
+      "value": "32px",
+      "type": "fontSizes"
+    },
+    "5xl": {
+      "value": "36px",
+      "type": "fontSizes"
+    },
+    "6xl": {
+      "value": "42px",
+      "type": "fontSizes"
+    },
+    "7xl": {
+      "value": "48px",
+      "type": "fontSizes"
+    },
+    "8xl": {
+      "value": "54px",
+      "type": "fontSizes"
+    },
+    "9xl": {
+      "value": "68px",
+      "type": "fontSizes"
+    },
+    "sm": {
+      "value": "14px",
+      "type": "fontSizes"
+    },
+    "xs": {
+      "value": "12px",
+      "type": "fontSizes"
+    },
+    "xxs": {
+      "value": "11px",
+      "type": "fontSizes"
     }
   },
   "border": {
@@ -469,5 +477,14 @@
       "value": "{max-page-width.default}",
       "type": "other"
     }
+  },
+  "HeadlineXL": {
+    "value": {
+      "fontFamily": "{font.family.sans}",
+      "fontWeight": "{font.weight.bold}",
+      "fontSize": "{fontSize.6xl}",
+      "lineHeight": "{font.line-height.1}"
+    },
+    "type": "typography"
   }
 }
