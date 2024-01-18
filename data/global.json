@@ -263,6 +263,10 @@
       "default": {
         "value": "1.618",
         "type": "lineHeights"
+      },
+      "headlines": {
+        "value": "100%",
+        "type": "lineHeights"
       }
     },
     "headline": {
@@ -483,7 +487,52 @@
       "fontFamily": "{font.family.sans}",
       "fontWeight": "{font.weight.bold}",
       "fontSize": "{fontSize.6xl}",
-      "lineHeight": "{font.line-height.1}"
+      "lineHeight": "{font.line-height.headlines}"
+    },
+    "type": "typography"
+  },
+  "HeadlineLG": {
+    "value": {
+      "fontFamily": "{font.family.sans}",
+      "fontWeight": "{font.weight.bold}",
+      "fontSize": "{fontSize.4xl}",
+      "lineHeight": "{font.line-height.headlines}"
+    },
+    "type": "typography"
+  },
+  "HeadlineMD": {
+    "value": {
+      "fontFamily": "{font.family.sans}",
+      "fontWeight": "{font.weight.bold}",
+      "fontSize": "{fontSize.2xl}",
+      "lineHeight": "{font.line-height.headlines}"
+    },
+    "type": "typography"
+  },
+  "HeadlineSM": {
+    "value": {
+      "fontFamily": "{font.family.sans}",
+      "fontWeight": "{font.weight.bold}",
+      "fontSize": "{fontSize.xl}",
+      "lineHeight": "{font.line-height.headlines}"
+    },
+    "type": "typography"
+  },
+  "Hero": {
+    "value": {
+      "fontFamily": "{font.family.sans}",
+      "fontWeight": "{font.weight.bold}",
+      "fontSize": "{fontSize.8xl}",
+      "lineHeight": "{font.line-height.headlines}"
+    },
+    "type": "typography"
+  },
+  "Display": {
+    "value": {
+      "fontFamily": "{font.family.sans}",
+      "fontWeight": "{font.weight.bold}",
+      "fontSize": "{fontSize.9xl}",
+      "lineHeight": "{font.line-height.headlines}"
     },
     "type": "typography"
   }
