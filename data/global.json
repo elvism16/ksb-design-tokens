@@ -339,21 +339,29 @@
   },
   "font": {
     "fontWeight": {
-      "normal": {
+      "400": {
         "value": "400",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "700",
+        "type": "fontWeights"
+      },
+      "normal": {
+        "value": "55 Roman",
         "type": "fontWeights",
         "description": "55 Roman"
       },
       "bold": {
-        "value": "600",
+        "value": "65 Bold",
         "type": "fontWeights"
       },
       "ultra": {
-        "value": "900",
+        "value": "95 Ultra Black",
         "type": "fontWeights"
       },
       "black": {
-        "value": "700",
+        "value": "75 Black",
         "type": "fontWeights"
       }
     },
@@ -448,6 +456,16 @@
         },
         "type": "typography"
       },
+      "Campaign": {
+        "value": {
+          "fontFamily": "{font.fontFamily.sans}",
+          "fontWeight": "{font.fontWeight.ultra}",
+          "fontSize": "{font.fontSize.6xl}",
+          "lineHeight": "{font.lineHeight.headlines}",
+          "textCase": "{font.textCase.uppercase}"
+        },
+        "type": "typography"
+      },
       "HeadlineLG": {
         "value": {
           "fontFamily": "{font.fontFamily.sans}",
@@ -487,7 +505,7 @@
       "Display": {
         "value": {
           "fontFamily": "{font.fontFamily.serif}",
-          "fontWeight": "{font.fontWeight.black}",
+          "fontWeight": "{font.fontWeight.700}",
           "fontSize": "{font.fontSize.9xl}",
           "lineHeight": "{font.lineHeight.headlines}"
         },
@@ -556,6 +574,12 @@
       "body": {
         "value": "0.1em",
         "type": "letterSpacing"
+      }
+    },
+    "textCase": {
+      "uppercase": {
+        "value": "uppercase",
+        "type": "textCase"
       }
     }
   },
