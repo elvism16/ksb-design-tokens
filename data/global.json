@@ -203,6 +203,38 @@
         "value": "{color.white}",
         "type": "color"
       },
+      "onErrorLight": {
+        "value": "{color.neutral.700}",
+        "type": "color"
+      },
+      "onErrorDark": {
+        "value": "{color.white}",
+        "type": "color"
+      },
+      "onWarning": {
+        "value": "{color.white}",
+        "type": "color"
+      },
+      "onWarningLight": {
+        "value": "{color.neutral.700}",
+        "type": "color"
+      },
+      "onWarningDark": {
+        "value": "{color.white}",
+        "type": "color"
+      },
+      "onSuccess": {
+        "value": "{color.white}",
+        "type": "color"
+      },
+      "onSuccessLight": {
+        "value": "{color.neutral.700}",
+        "type": "color"
+      },
+      "onSuccessDark": {
+        "value": "{color.white}",
+        "type": "color"
+      },
       "onDisabled": {
         "value": "{color.white}",
         "type": "color"
