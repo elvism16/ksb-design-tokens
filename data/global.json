@@ -477,7 +477,7 @@
           },
           "type": "typography"
         },
-        "HeadlineXL": {
+        "HeadlineH1": {
           "value": {
             "fontFamily": "{font.fontFamily.sans}",
             "fontWeight": "{font.fontWeight.bold}",
@@ -486,7 +486,7 @@
           },
           "type": "typography"
         },
-        "HeadlineLG": {
+        "HeadlineH2": {
           "value": {
             "fontFamily": "{font.fontFamily.sans}",
             "fontWeight": "{font.fontWeight.bold}",
@@ -495,7 +495,7 @@
           },
           "type": "typography"
         },
-        "HeadlineMD": {
+        "HeadlineH3": {
           "value": {
             "fontFamily": "{font.fontFamily.sans}",
             "fontWeight": "{font.fontWeight.bold}",
@@ -504,7 +504,7 @@
           },
           "type": "typography"
         },
-        "HeadlineSM": {
+        "HeadlineH4": {
           "value": {
             "fontFamily": "{font.fontFamily.sans}",
             "fontWeight": "{font.fontWeight.bold}",
@@ -513,7 +513,7 @@
           },
           "type": "typography"
         },
-        "HeadlineXS": {
+        "HeadlineH5": {
           "value": {
             "fontFamily": "{font.fontFamily.sans}",
             "fontWeight": "{font.fontWeight.bold}",
