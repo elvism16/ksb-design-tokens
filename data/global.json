@@ -184,6 +184,22 @@
       "inverted": {
         "value": "{color.neutral.600}",
         "type": "color"
+      },
+      "error": {
+        "value": "{color.red.100}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{color.green.100}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{color.yellow.100}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{color.blue.200}",
+        "type": "color"
       }
     },
     "fg": {
