@@ -1,5 +1,14 @@
 {
   "tokenSetOrder": [
-    "global"
+    "themes/typography",
+    "themes/default",
+    "base/color",
+    "base/radii",
+    "base/dimensions",
+    "base/shadows",
+    "base/borders",
+    "base/typography",
+    "base/zindex",
+    "base/breakpoints"
   ]
 }

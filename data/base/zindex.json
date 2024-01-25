@@ -1,0 +1,44 @@
+{
+  "zIndex": {
+    "1": {
+      "value": "1000",
+      "type": "other"
+    },
+    "2": {
+      "value": "1001",
+      "type": "other"
+    },
+    "5": {
+      "value": "5000",
+      "type": "other"
+    },
+    "6": {
+      "value": "6000",
+      "type": "other"
+    },
+    "7": {
+      "value": "7000",
+      "type": "other"
+    },
+    "8": {
+      "value": "8000",
+      "type": "other"
+    },
+    "9": {
+      "value": "9000",
+      "type": "other"
+    },
+    "default": {
+      "value": "1",
+      "type": "other"
+    },
+    "shallow": {
+      "value": "-1",
+      "type": "other"
+    },
+    "deep": {
+      "value": "-9999",
+      "type": "other"
+    }
+  }
+}

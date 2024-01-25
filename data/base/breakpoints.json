@@ -1,0 +1,23 @@
+{
+  "breakpoints": {
+    "sm": {
+      "value": "22.5em",
+      "type": "other",
+      "description": "360px"
+    },
+    "md": {
+      "value": "37.5em",
+      "type": "other",
+      "description": "600px"
+    },
+    "lg": {
+      "value": "52.5em",
+      "type": "other",
+      "description": "840px"
+    },
+    "xl": {
+      "value": "{max-page-width.default}",
+      "type": "other"
+    }
+  }
+}

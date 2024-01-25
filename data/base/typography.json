@@ -1,0 +1,123 @@
+{
+  "fontFamilies": {
+    "sans": {
+      "value": "Frutiger LT Std, -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif",
+      "type": "fontFamilies"
+    },
+    "serif": {
+      "value": "Sabon",
+      "type": "fontFamilies"
+    }
+  },
+  "fontSize": {
+    "md": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "lg": {
+      "value": "18px",
+      "type": "fontSizes"
+    },
+    "xl": {
+      "value": "20px",
+      "type": "fontSizes"
+    },
+    "2xl": {
+      "value": "24px",
+      "type": "fontSizes"
+    },
+    "3xl": {
+      "value": "28px",
+      "type": "fontSizes"
+    },
+    "4xl": {
+      "value": "32px",
+      "type": "fontSizes"
+    },
+    "5xl": {
+      "value": "36px",
+      "type": "fontSizes"
+    },
+    "6xl": {
+      "value": "42px",
+      "type": "fontSizes"
+    },
+    "7xl": {
+      "value": "48px",
+      "type": "fontSizes"
+    },
+    "8xl": {
+      "value": "54px",
+      "type": "fontSizes"
+    },
+    "9xl": {
+      "value": "68px",
+      "type": "fontSizes"
+    },
+    "sm": {
+      "value": "14px",
+      "type": "fontSizes"
+    },
+    "xs": {
+      "value": "12px",
+      "type": "fontSizes"
+    },
+    "xxs": {
+      "value": "11px",
+      "type": "fontSizes"
+    }
+  },
+  "fontWeight": {
+    "400": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "700": {
+      "value": "700",
+      "type": "fontWeights"
+    },
+    "normal": {
+      "value": "55 Roman",
+      "type": "fontWeights",
+      "description": "55 Roman"
+    },
+    "bold": {
+      "value": "65 Bold",
+      "type": "fontWeights"
+    },
+    "ultra": {
+      "value": "95 Ultra Black",
+      "type": "fontWeights"
+    },
+    "black": {
+      "value": "75 Black",
+      "type": "fontWeights"
+    }
+  },
+  "lineHeight": {
+    "default": {
+      "value": "150%",
+      "type": "lineHeights"
+    },
+    "headlines": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "body": {
+      "value": "142%",
+      "type": "lineHeights"
+    }
+  },
+  "letterSpacing": {
+    "default": {
+      "value": "0.1em",
+      "type": "letterSpacing"
+    }
+  },
+  "textCase": {
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    }
+  }
+}

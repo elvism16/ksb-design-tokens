@@ -1,0 +1,188 @@
+{
+  "font": {
+    "typography": {
+      "headline": {
+        "Display": {
+          "value": {
+            "fontFamily": "{fontFamilies.serif}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.9xl}",
+            "lineHeight": "{lineHeight.headlines}"
+          },
+          "type": "typography"
+        },
+        "Hero": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.bold}",
+            "fontSize": "{fontSize.8xl}",
+            "lineHeight": "{lineHeight.headlines}"
+          },
+          "type": "typography"
+        },
+        "Campaign": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.ultra}",
+            "fontSize": "{fontSize.6xl}",
+            "lineHeight": "{lineHeight.headlines}",
+            "textCase": "{textCase.uppercase}"
+          },
+          "type": "typography"
+        },
+        "HeadlineH1": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.bold}",
+            "fontSize": "{fontSize.6xl}",
+            "lineHeight": "{lineHeight.headlines}"
+          },
+          "type": "typography"
+        },
+        "HeadlineH2": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.bold}",
+            "fontSize": "{fontSize.4xl}",
+            "lineHeight": "{lineHeight.headlines}"
+          },
+          "type": "typography"
+        },
+        "HeadlineH3": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.bold}",
+            "fontSize": "{fontSize.2xl}",
+            "lineHeight": "{lineHeight.headlines}"
+          },
+          "type": "typography"
+        },
+        "HeadlineH4": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.bold}",
+            "fontSize": "{fontSize.xl}",
+            "lineHeight": "{lineHeight.headlines}"
+          },
+          "type": "typography"
+        },
+        "HeadlineH5": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.bold}",
+            "fontSize": "{fontSize.md}",
+            "lineHeight": "{lineHeight.headlines}"
+          },
+          "type": "typography"
+        }
+      },
+      "body": {
+        "default": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.md}",
+            "lineHeight": "{lineHeight.default}",
+            "letterSpacing": "{letterSpacing.default}"
+          },
+          "type": "typography"
+        },
+        "small": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.sm}",
+            "lineHeight": "{lineHeight.default}",
+            "letterSpacing": "{letterSpacing.default}"
+          },
+          "type": "typography"
+        },
+        "large": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.2xl}",
+            "lineHeight": "{lineHeight.default}"
+          },
+          "type": "typography"
+        }
+      },
+      "form": {
+        "input": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.md}",
+            "lineHeight": "{lineHeight.default}",
+            "letterSpacing": "{letterSpacing.default}"
+          },
+          "type": "typography",
+          "description": "We use this for input value and placeholder"
+        },
+        "hint": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.xs}",
+            "lineHeight": "{lineHeight.default}"
+          },
+          "type": "typography",
+          "description": "We use this for helper text and error messages in form context"
+        },
+        "label": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.xs}",
+            "lineHeight": "{lineHeight.default}"
+          },
+          "type": "typography"
+        }
+      },
+      "caption": {
+        "caption": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.md}",
+            "lineHeight": "{lineHeight.default}",
+            "letterSpacing": "{letterSpacing.default}"
+          },
+          "type": "typography"
+        }
+      },
+      "quote": {
+        "large": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.8xl}",
+            "lineHeight": "{lineHeight.headlines}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.4xl}",
+            "lineHeight": "{lineHeight.headlines}"
+          },
+          "type": "typography"
+        }
+      },
+      "button": {
+        "button": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.md}",
+            "lineHeight": "{lineHeight.default}",
+            "letterSpacing": "{letterSpacing.default}"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  }
+}
