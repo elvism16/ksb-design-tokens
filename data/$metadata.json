@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
-    "themes/typography",
     "themes/default",
+    "themes/typography",
     "base/color",
     "base/radii",
     "base/dimensions",
