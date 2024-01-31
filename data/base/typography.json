@@ -51,7 +51,11 @@
       "type": "fontSizes"
     },
     "9xl": {
-      "value": "68px",
+      "value": "64px",
+      "type": "fontSizes"
+    },
+    "10xl": {
+      "value": "72px",
       "type": "fontSizes"
     },
     "sm": {
