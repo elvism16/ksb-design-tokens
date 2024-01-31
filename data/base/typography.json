@@ -68,43 +68,48 @@
     }
   },
   "fontWeight": {
-    "400": {
-      "value": "400",
-      "type": "fontWeights"
+    "regular-serif": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "Serif"
     },
-    "700": {
-      "value": "700",
-      "type": "fontWeights"
+    "bold-serif": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "description": "Serif"
     },
     "normal": {
       "value": "55 Roman",
       "type": "fontWeights",
-      "description": "55 Roman"
+      "description": "Sans"
     },
     "bold": {
       "value": "65 Bold",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "Sans"
     },
     "ultra": {
       "value": "95 Ultra Black",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "Sans"
     },
     "black": {
       "value": "75 Black",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "Sans"
     }
   },
   "lineHeight": {
-    "default": {
-      "value": "150%",
-      "type": "lineHeights"
-    },
-    "headlines": {
+    "s": {
       "value": "100%",
       "type": "lineHeights"
     },
-    "body": {
-      "value": "142%",
+    "m": {
+      "value": "125%",
+      "type": "lineHeights"
+    },
+    "l": {
+      "value": "150%",
       "type": "lineHeights"
     }
   },
