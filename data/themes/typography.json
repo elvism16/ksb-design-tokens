@@ -114,14 +114,25 @@
         }
       },
       "body": {
-        "large": {
+        "large-max": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.2xl}",
-            "lineHeight": "{lineHeight.l}"
+            "lineHeight": "{lineHeight.m}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "Desktop"
+        },
+        "large-min": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.xl}",
+            "lineHeight": "{lineHeight.m}"
+          },
+          "type": "typography",
+          "description": "Mobile"
         },
         "default": {
           "value": {
@@ -150,7 +161,7 @@
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.md}",
-            "lineHeight": "{lineHeight.l}",
+            "lineHeight": "{lineHeight.m}",
             "letterSpacing": "{letterSpacing.default}"
           },
           "type": "typography",
@@ -161,7 +172,7 @@
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.xs}",
-            "lineHeight": "{lineHeight.l}"
+            "lineHeight": "{lineHeight.m}"
           },
           "type": "typography",
           "description": "We use this for helper text and error messages in form context"
@@ -171,7 +182,7 @@
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.xs}",
-            "lineHeight": "{lineHeight.l}"
+            "lineHeight": "{lineHeight.m}"
           },
           "type": "typography"
         }
@@ -189,23 +200,45 @@
         }
       },
       "quote": {
-        "large": {
+        "LG-max": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.8xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "Desktop"
         },
-        "medium": {
+        "LG-min": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.4xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "Mobile"
+        },
+        "MD-max": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.4xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Desktop"
+        },
+        "MD-min": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Mobile"
         }
       },
       "button": {
@@ -251,6 +284,16 @@
           "type": "typography",
           "description": "Desktop"
         },
+        "display-XL-min": {
+          "value": {
+            "fontFamily": "{fontFamilies.serif}",
+            "fontWeight": "{fontWeight.bold-serif}",
+            "fontSize": "{fontSize.4xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Mobile"
+        },
         "display-LG-max": {
           "value": {
             "fontFamily": "{fontFamilies.serif}",
@@ -261,6 +304,16 @@
           "type": "typography",
           "description": "Desktop"
         },
+        "display-LG-min": {
+          "value": {
+            "fontFamily": "{fontFamilies.serif}",
+            "fontWeight": "{fontWeight.bold-serif}",
+            "fontSize": "{fontSize.2xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Mobile"
+        },
         "display-MD-max": {
           "value": {
             "fontFamily": "{fontFamilies.serif}",
@@ -270,6 +323,16 @@
           },
           "type": "typography",
           "description": "Desktop"
+        },
+        "display-MD-min": {
+          "value": {
+            "fontFamily": "{fontFamilies.serif}",
+            "fontWeight": "{fontWeight.regular-serif}",
+            "fontSize": "{fontSize.2xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Mobile"
         },
         "display-SM": {
           "value": {
@@ -291,7 +354,7 @@
           "type": "typography",
           "description": "Desktop Mobile"
         },
-        "Campaign": {
+        "campaign-max": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.ultra}",
@@ -299,7 +362,19 @@
             "lineHeight": "{lineHeight.s}",
             "textCase": "{textCase.uppercase}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "Desktop"
+        },
+        "campaign-min": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.ultra}",
+            "fontSize": "{fontSize.2xl}",
+            "lineHeight": "{lineHeight.s}",
+            "textCase": "{textCase.uppercase}"
+          },
+          "type": "typography",
+          "description": "Mobile"
         }
       }
     }

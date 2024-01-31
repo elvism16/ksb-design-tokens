@@ -64,7 +64,7 @@
     },
     "fg": {
       "default": {
-        "value": "{color.neutral.700}",
+        "value": "{color.black}",
         "type": "color"
       },
       "onPrimary": {
@@ -159,16 +159,6 @@
       },
       "emphasis": {
         "value": "{color.yellow.300}",
-        "type": "color"
-      }
-    },
-    "info": {
-      "default": {
-        "value": "{color.blue.700}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{color.blue.200}",
         "type": "color"
       }
     },
