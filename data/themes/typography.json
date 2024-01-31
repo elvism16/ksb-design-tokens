@@ -56,7 +56,7 @@
           "value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
-            "fontSize": "{fontSize.4xl}",
+            "fontSize": "{fontSize.xl}",
             "lineHeight": "{lineHeight.s}"
           },
           "type": "typography",
@@ -72,6 +72,16 @@
           "type": "typography",
           "description": "Desktop"
         },
+        "headline-MD-min": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.bold}",
+            "fontSize": "{fontSize.lg}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Mobile"
+        },
         "headline-SM-max": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
@@ -82,7 +92,17 @@
           "type": "typography",
           "description": "Desktop"
         },
-        "headline-XS-max": {
+        "headline-SM-min": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.bold}",
+            "fontSize": "{fontSize.md}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Mobile"
+        },
+        "headline-XS": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
@@ -90,10 +110,19 @@
             "lineHeight": "{lineHeight.m}"
           },
           "type": "typography",
-          "description": "Desktop"
+          "description": "Desktop Mobile"
         }
       },
       "body": {
+        "large": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.2xl}",
+            "lineHeight": "{lineHeight.l}"
+          },
+          "type": "typography"
+        },
         "default": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
@@ -111,15 +140,6 @@
             "fontSize": "{fontSize.sm}",
             "lineHeight": "{lineHeight.l}",
             "letterSpacing": "{letterSpacing.default}"
-          },
-          "type": "typography"
-        },
-        "large": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.normal}",
-            "fontSize": "{fontSize.2xl}",
-            "lineHeight": "{lineHeight.l}"
           },
           "type": "typography"
         }
@@ -161,8 +181,8 @@
           "value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
-            "fontSize": "{fontSize.md}",
-            "lineHeight": "{lineHeight.l}",
+            "fontSize": "{fontSize.xs}",
+            "lineHeight": "{lineHeight.m}",
             "letterSpacing": "{letterSpacing.default}"
           },
           "type": "typography"
@@ -201,14 +221,75 @@
         }
       },
       "headline-display": {
-        "Display": {
+        "display-XXL-max": {
           "value": {
             "fontFamily": "{fontFamilies.serif}",
             "fontWeight": "{fontWeight.bold-serif}",
+            "fontSize": "{fontSize.10xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Desktop"
+        },
+        "display-XXL-min": {
+          "value": {
+            "fontFamily": "{fontFamilies.serif}",
+            "fontWeight": "{fontWeight.bold-serif}",
+            "fontSize": "{fontSize.6xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Mobile"
+        },
+        "display-XL-max": {
+          "value": {
+            "fontFamily": "{fontFamilies.serif}",
+            "fontWeight": "{fontWeight.regular-serif}",
             "fontSize": "{fontSize.9xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "Desktop"
+        },
+        "display-LG-max": {
+          "value": {
+            "fontFamily": "{fontFamilies.serif}",
+            "fontWeight": "{fontWeight.bold-serif}",
+            "fontSize": "{fontSize.4xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Desktop"
+        },
+        "display-MD-max": {
+          "value": {
+            "fontFamily": "{fontFamilies.serif}",
+            "fontWeight": "{fontWeight.regular-serif}",
+            "fontSize": "{fontSize.4xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Desktop"
+        },
+        "display-SM": {
+          "value": {
+            "fontFamily": "{fontFamilies.serif}",
+            "fontWeight": "{fontWeight.bold-serif}",
+            "fontSize": "{fontSize.2xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Desktop Mobile"
+        },
+        "display-XS": {
+          "value": {
+            "fontFamily": "{fontFamilies.serif}",
+            "fontWeight": "{fontWeight.bold-serif}",
+            "fontSize": "{fontSize.xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Desktop Mobile"
         },
         "Campaign": {
           "value": {
