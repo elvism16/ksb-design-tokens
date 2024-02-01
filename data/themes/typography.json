@@ -401,6 +401,35 @@
         "type": "typography",
         "description": "Desktop Mobile"
       }
+    },
+    "badge": {
+      "large": {
+        "value": {
+          "fontFamily": "{fontFamilies.sans}",
+          "fontWeight": "{fontWeight.bold}",
+          "fontSize": "{fontSize.sm}",
+          "lineHeight": "{lineHeight.s}"
+        },
+        "type": "typography"
+      },
+      "default": {
+        "value": {
+          "fontFamily": "{fontFamilies.sans}",
+          "fontWeight": "{fontWeight.bold}",
+          "fontSize": "{fontSize.xs}",
+          "lineHeight": "{lineHeight.s}"
+        },
+        "type": "typography"
+      },
+      "small": {
+        "value": {
+          "fontFamily": "{fontFamilies.sans}",
+          "fontWeight": "{fontWeight.bold}",
+          "fontSize": "{fontSize.xxxs}",
+          "lineHeight": "{lineHeight.s}"
+        },
+        "type": "typography"
+      }
     }
   }
 }

@@ -69,6 +69,10 @@
     "xxs": {
       "value": "11px",
       "type": "fontSizes"
+    },
+    "xxxs": {
+      "value": "9px",
+      "type": "fontSizes"
     }
   },
   "fontWeight": {
