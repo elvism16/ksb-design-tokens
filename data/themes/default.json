@@ -1,5 +1,5 @@
 {
-  "colors": {
+  "semantic": {
     "primary": {
       "default": {
         "value": "{color.orange.700}",
@@ -116,7 +116,7 @@
         "type": "color"
       },
       "onTransparent": {
-        "value": "{colors.secondary.default}",
+        "value": "{semantic.secondary.default}",
         "type": "color"
       }
     },
@@ -164,7 +164,7 @@
     },
     "input": {
       "label": {
-        "value": "{colors.secondary.default}",
+        "value": "{semantic.secondary.default}",
         "type": "color"
       },
       "disabled": {
@@ -187,15 +187,15 @@
       },
       "border": {
         "default": {
-          "value": "{colors.secondary.default}",
+          "value": "{semantic.secondary.default}",
           "type": "color"
         },
         "error": {
-          "value": "{colors.error.default}",
+          "value": "{semantic.error.default}",
           "type": "color"
         },
         "disabled": {
-          "value": "{colors.input.disabled}",
+          "value": "{semantic.input.disabled}",
           "type": "color"
         }
       }
