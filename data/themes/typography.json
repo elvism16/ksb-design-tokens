@@ -263,12 +263,22 @@
       }
     },
     "button": {
-      "button": {
+      "default": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.normal}",
           "fontSize": "{fontSize.md}",
-          "lineHeight": "{lineHeight.l}",
+          "lineHeight": "{lineHeight.s}",
+          "letterSpacing": "{letterSpacing.default}"
+        },
+        "type": "typography"
+      },
+      "small": {
+        "value": {
+          "fontFamily": "{fontFamilies.sans}",
+          "fontWeight": "{fontWeight.normal}",
+          "fontSize": "{fontSize.xs}",
+          "lineHeight": "{lineHeight.s}",
           "letterSpacing": "{letterSpacing.default}"
         },
         "type": "typography"
