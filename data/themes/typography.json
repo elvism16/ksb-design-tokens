@@ -2,105 +2,109 @@
   "font": {
     "typography": {
       "headline-default": {
-        "headline-XXL-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.bold}",
-            "fontSize": "{fontSize.8xl}",
-            "lineHeight": "{lineHeight.s}"
+        "desktop": {
+          "headline-XXL": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.bold}",
+              "fontSize": "{fontSize.8xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Desktop"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "headline-XL": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.bold}",
+              "fontSize": "{fontSize.6xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Desktop"
+          },
+          "headline-LG": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.bold}",
+              "fontSize": "{fontSize.4xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Desktop"
+          },
+          "headline-MD": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.bold}",
+              "fontSize": "{fontSize.2xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Desktop"
+          },
+          "headline-SM": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.bold}",
+              "fontSize": "{fontSize.xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Desktop"
+          }
         },
-        "headline-XXL-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.bold}",
-            "fontSize": "{fontSize.4xl}",
-            "lineHeight": "{lineHeight.s}"
+        "mobile": {
+          "headline-XXL": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.bold}",
+              "fontSize": "{fontSize.4xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Mobile"
           },
-          "type": "typography",
-          "description": "Mobile"
-        },
-        "headline-XL-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.bold}",
-            "fontSize": "{fontSize.6xl}",
-            "lineHeight": "{lineHeight.s}"
+          "headline-XL": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.bold}",
+              "fontSize": "{fontSize.2xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Mobile"
           },
-          "type": "typography",
-          "description": "Desktop"
-        },
-        "headline-XL-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.bold}",
-            "fontSize": "{fontSize.2xl}",
-            "lineHeight": "{lineHeight.s}"
+          "headline-LG": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.bold}",
+              "fontSize": "{fontSize.xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Mobile"
           },
-          "type": "typography",
-          "description": "Mobile"
-        },
-        "headline-LG-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.bold}",
-            "fontSize": "{fontSize.4xl}",
-            "lineHeight": "{lineHeight.s}"
+          "headline-MD": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.bold}",
+              "fontSize": "{fontSize.lg}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Mobile"
           },
-          "type": "typography",
-          "description": "Desktop"
-        },
-        "headline-LG-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.bold}",
-            "fontSize": "{fontSize.xl}",
-            "lineHeight": "{lineHeight.s}"
-          },
-          "type": "typography",
-          "description": "Mobile"
-        },
-        "headline-MD-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.bold}",
-            "fontSize": "{fontSize.2xl}",
-            "lineHeight": "{lineHeight.s}"
-          },
-          "type": "typography",
-          "description": "Desktop"
-        },
-        "headline-MD-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.bold}",
-            "fontSize": "{fontSize.lg}",
-            "lineHeight": "{lineHeight.s}"
-          },
-          "type": "typography",
-          "description": "Mobile"
-        },
-        "headline-SM-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.bold}",
-            "fontSize": "{fontSize.xl}",
-            "lineHeight": "{lineHeight.s}"
-          },
-          "type": "typography",
-          "description": "Desktop"
-        },
-        "headline-SM-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.bold}",
-            "fontSize": "{fontSize.md}",
-            "lineHeight": "{lineHeight.s}"
-          },
-          "type": "typography",
-          "description": "Mobile"
+          "headline-SM": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.bold}",
+              "fontSize": "{fontSize.md}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Mobile"
+          }
         },
         "headline-XS": {
           "value": {
@@ -114,25 +118,29 @@
         }
       },
       "body": {
-        "large-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.normal}",
-            "fontSize": "{fontSize.2xl}",
-            "lineHeight": "{lineHeight.m}"
-          },
-          "type": "typography",
-          "description": "Desktop"
+        "desktop": {
+          "large": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.normal}",
+              "fontSize": "{fontSize.2xl}",
+              "lineHeight": "{lineHeight.m}"
+            },
+            "type": "typography",
+            "description": "Desktop"
+          }
         },
-        "large-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.normal}",
-            "fontSize": "{fontSize.xl}",
-            "lineHeight": "{lineHeight.m}"
-          },
-          "type": "typography",
-          "description": "Mobile"
+        "mobile": {
+          "large": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.normal}",
+              "fontSize": "{fontSize.xl}",
+              "lineHeight": "{lineHeight.m}"
+            },
+            "type": "typography",
+            "description": "Mobile"
+          }
         },
         "default": {
           "value": {
@@ -200,45 +208,49 @@
         }
       },
       "quote": {
-        "LG-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.normal}",
-            "fontSize": "{fontSize.8xl}",
-            "lineHeight": "{lineHeight.s}"
+        "desktop": {
+          "LG": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.normal}",
+              "fontSize": "{fontSize.8xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Desktop"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "MD": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.normal}",
+              "fontSize": "{fontSize.4xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Desktop"
+          }
         },
-        "LG-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.normal}",
-            "fontSize": "{fontSize.4xl}",
-            "lineHeight": "{lineHeight.s}"
+        "mobile": {
+          "LG": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.normal}",
+              "fontSize": "{fontSize.4xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Mobile"
           },
-          "type": "typography",
-          "description": "Mobile"
-        },
-        "MD-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.normal}",
-            "fontSize": "{fontSize.4xl}",
-            "lineHeight": "{lineHeight.s}"
-          },
-          "type": "typography",
-          "description": "Desktop"
-        },
-        "MD-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.normal}",
-            "fontSize": "{fontSize.xl}",
-            "lineHeight": "{lineHeight.s}"
-          },
-          "type": "typography",
-          "description": "Mobile"
+          "MD": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.normal}",
+              "fontSize": "{fontSize.xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Mobile"
+          }
         }
       },
       "button": {
@@ -254,85 +266,111 @@
         }
       },
       "headline-display": {
-        "display-XXL-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.serif}",
-            "fontWeight": "{fontWeight.bold-serif}",
-            "fontSize": "{fontSize.10xl}",
-            "lineHeight": "{lineHeight.s}"
+        "desktop": {
+          "display-XXL": {
+            "value": {
+              "fontFamily": "{fontFamilies.serif}",
+              "fontWeight": "{fontWeight.bold-serif}",
+              "fontSize": "{fontSize.10xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Desktop"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "display-XL": {
+            "value": {
+              "fontFamily": "{fontFamilies.serif}",
+              "fontWeight": "{fontWeight.regular-serif}",
+              "fontSize": "{fontSize.9xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Desktop"
+          },
+          "display-LG": {
+            "value": {
+              "fontFamily": "{fontFamilies.serif}",
+              "fontWeight": "{fontWeight.bold-serif}",
+              "fontSize": "{fontSize.4xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Desktop"
+          },
+          "display-MD": {
+            "value": {
+              "fontFamily": "{fontFamilies.serif}",
+              "fontWeight": "{fontWeight.regular-serif}",
+              "fontSize": "{fontSize.4xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Desktop"
+          },
+          "campaign": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.ultra}",
+              "fontSize": "{fontSize.6xl}",
+              "lineHeight": "{lineHeight.s}",
+              "textCase": "{textCase.uppercase}"
+            },
+            "type": "typography",
+            "description": "Desktop"
+          }
         },
-        "display-XXL-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.serif}",
-            "fontWeight": "{fontWeight.bold-serif}",
-            "fontSize": "{fontSize.6xl}",
-            "lineHeight": "{lineHeight.s}"
+        "mobile": {
+          "display-XXL": {
+            "value": {
+              "fontFamily": "{fontFamilies.serif}",
+              "fontWeight": "{fontWeight.bold-serif}",
+              "fontSize": "{fontSize.6xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Mobile"
           },
-          "type": "typography",
-          "description": "Mobile"
-        },
-        "display-XL-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.serif}",
-            "fontWeight": "{fontWeight.regular-serif}",
-            "fontSize": "{fontSize.9xl}",
-            "lineHeight": "{lineHeight.s}"
+          "display-XL": {
+            "value": {
+              "fontFamily": "{fontFamilies.serif}",
+              "fontWeight": "{fontWeight.bold-serif}",
+              "fontSize": "{fontSize.4xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Mobile"
           },
-          "type": "typography",
-          "description": "Desktop"
-        },
-        "display-XL-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.serif}",
-            "fontWeight": "{fontWeight.bold-serif}",
-            "fontSize": "{fontSize.4xl}",
-            "lineHeight": "{lineHeight.s}"
+          "display-LG": {
+            "value": {
+              "fontFamily": "{fontFamilies.serif}",
+              "fontWeight": "{fontWeight.bold-serif}",
+              "fontSize": "{fontSize.2xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Mobile"
           },
-          "type": "typography",
-          "description": "Mobile"
-        },
-        "display-LG-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.serif}",
-            "fontWeight": "{fontWeight.bold-serif}",
-            "fontSize": "{fontSize.4xl}",
-            "lineHeight": "{lineHeight.s}"
+          "display-MD": {
+            "value": {
+              "fontFamily": "{fontFamilies.serif}",
+              "fontWeight": "{fontWeight.regular-serif}",
+              "fontSize": "{fontSize.2xl}",
+              "lineHeight": "{lineHeight.s}"
+            },
+            "type": "typography",
+            "description": "Mobile"
           },
-          "type": "typography",
-          "description": "Desktop"
-        },
-        "display-LG-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.serif}",
-            "fontWeight": "{fontWeight.bold-serif}",
-            "fontSize": "{fontSize.2xl}",
-            "lineHeight": "{lineHeight.s}"
-          },
-          "type": "typography",
-          "description": "Mobile"
-        },
-        "display-MD-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.serif}",
-            "fontWeight": "{fontWeight.regular-serif}",
-            "fontSize": "{fontSize.4xl}",
-            "lineHeight": "{lineHeight.s}"
-          },
-          "type": "typography",
-          "description": "Desktop"
-        },
-        "display-MD-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.serif}",
-            "fontWeight": "{fontWeight.regular-serif}",
-            "fontSize": "{fontSize.2xl}",
-            "lineHeight": "{lineHeight.s}"
-          },
-          "type": "typography",
-          "description": "Mobile"
+          "campaign": {
+            "value": {
+              "fontFamily": "{fontFamilies.sans}",
+              "fontWeight": "{fontWeight.ultra}",
+              "fontSize": "{fontSize.2xl}",
+              "lineHeight": "{lineHeight.s}",
+              "textCase": "{textCase.uppercase}"
+            },
+            "type": "typography",
+            "description": "Mobile"
+          }
         },
         "display-SM": {
           "value": {
@@ -353,28 +391,6 @@
           },
           "type": "typography",
           "description": "Desktop Mobile"
-        },
-        "campaign-max": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.ultra}",
-            "fontSize": "{fontSize.6xl}",
-            "lineHeight": "{lineHeight.s}",
-            "textCase": "{textCase.uppercase}"
-          },
-          "type": "typography",
-          "description": "Desktop"
-        },
-        "campaign-min": {
-          "value": {
-            "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.ultra}",
-            "fontSize": "{fontSize.2xl}",
-            "lineHeight": "{lineHeight.s}",
-            "textCase": "{textCase.uppercase}"
-          },
-          "type": "typography",
-          "description": "Mobile"
         }
       }
     }
