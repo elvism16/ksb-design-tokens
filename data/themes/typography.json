@@ -166,7 +166,7 @@
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.normal}",
           "fontSize": "{fontSize.sm}",
-          "lineHeight": "{lineHeight.l}",
+          "lineHeight": "{lineHeight.m}",
           "letterSpacing": "{letterSpacing.default}"
         },
         "type": "typography"
