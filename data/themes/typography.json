@@ -166,7 +166,17 @@
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.normal}",
           "fontSize": "{fontSize.sm}",
-          "lineHeight": "{lineHeight.m}",
+          "lineHeight": "{lineHeight.l}",
+          "letterSpacing": "{letterSpacing.default}"
+        },
+        "type": "typography"
+      },
+      "small-bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.sans}",
+          "fontWeight": "{fontWeight.bold}",
+          "fontSize": "{fontSize.sm}",
+          "lineHeight": "{lineHeight.l}",
           "letterSpacing": "{letterSpacing.default}"
         },
         "type": "typography"
