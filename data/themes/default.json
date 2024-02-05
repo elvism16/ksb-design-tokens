@@ -38,6 +38,10 @@
       "muted-text": {
         "value": "{color.blue.400}",
         "type": "color"
+      },
+      "onDark": {
+        "value": "{color.blue.300}",
+        "type": "color"
       }
     },
     "bg": {
@@ -63,6 +67,10 @@
       },
       "info": {
         "value": "{color.blue.200}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.neutral.200}",
         "type": "color"
       }
     },
@@ -121,6 +129,10 @@
       },
       "onTransparent": {
         "value": "{semantic.secondary.default}",
+        "type": "color"
+      },
+      "onDark": {
+        "value": "{color.white}",
         "type": "color"
       }
     },
