@@ -34,6 +34,10 @@
       "subtle": {
         "value": "{color.blue.100}",
         "type": "color"
+      },
+      "muted-text": {
+        "value": "{color.blue.400}",
+        "type": "color"
       }
     },
     "bg": {
