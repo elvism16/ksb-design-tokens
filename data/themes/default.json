@@ -42,6 +42,10 @@
       "onDark": {
         "value": "{color.blue.300}",
         "type": "color"
+      },
+      "disabled-text": {
+        "value": "{color.neutral.400}",
+        "type": "color"
       }
     },
     "bg": {
