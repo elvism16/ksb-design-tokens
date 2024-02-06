@@ -15,7 +15,7 @@
       "description": "12px"
     },
     "200": {
-      "value": "1rem",
+      "value": "{spacing.400}",
       "type": "spacing",
       "description": "16px"
     },
