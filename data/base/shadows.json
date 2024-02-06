@@ -18,7 +18,7 @@
           "y": "2",
           "blur": "4",
           "spread": "0",
-          "color": "#00000012",
+          "color": "#00000020",
           "type": "dropShadow"
         },
         {
@@ -26,7 +26,7 @@
           "y": "4",
           "blur": "8",
           "spread": "0",
-          "color": "#1D1D1B12",
+          "color": "#1D1D1B20",
           "type": "dropShadow"
         }
       ],
@@ -39,7 +39,7 @@
           "y": "08",
           "blur": "04",
           "spread": "0",
-          "color": "#1D1D1B08",
+          "color": "#1D1D1B15",
           "type": "dropShadow"
         },
         {
@@ -47,7 +47,7 @@
           "y": "16",
           "blur": "16",
           "spread": "0",
-          "color": "#00000016",
+          "color": "#00000029",
           "type": "dropShadow"
         }
       ],
@@ -60,7 +60,7 @@
           "y": "24",
           "blur": "16",
           "spread": "0",
-          "color": "#1D1D1B08",
+          "color": "#1D1D1B15",
           "type": "dropShadow"
         },
         {
@@ -68,7 +68,7 @@
           "y": "48",
           "blur": "72",
           "spread": "0",
-          "color": "#00000016",
+          "color": "#00000029",
           "type": "dropShadow"
         }
       ],
