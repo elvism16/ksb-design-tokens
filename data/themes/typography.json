@@ -188,7 +188,7 @@
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.normal}",
           "fontSize": "{fontSize.md}",
-          "lineHeight": "{lineHeight.m}",
+          "lineHeight": "{lineHeight.s}",
           "letterSpacing": "{letterSpacing.default}"
         },
         "type": "typography",

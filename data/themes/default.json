@@ -183,21 +183,21 @@
       }
     },
     "input": {
-      "label": {
+      "default-text": {
         "value": "{semantic.secondary.default}",
         "type": "color"
       },
-      "disabled": {
+      "disabled-text": {
         "value": "{color.neutral.400}",
         "type": "color"
       },
       "background": {
         "default": {
-          "value": "{color.blue.400}",
+          "value": "{color.blue.100}",
           "type": "color"
         },
         "error": {
-          "value": "{color.orange.100}",
+          "value": "{color.red.100}",
           "type": "color"
         },
         "disabled": {
@@ -215,9 +215,13 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{semantic.input.disabled}",
+          "value": "{semantic.input.disabled-text}",
           "type": "color"
         }
+      },
+      "muted-text": {
+        "value": "{color.blue.400}",
+        "type": "color"
       }
     },
     "devider": {
