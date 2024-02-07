@@ -73,6 +73,17 @@
         }
       ],
       "type": "boxShadow"
+    },
+    "inner": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "3",
+        "color": "{semantic.bg.canvas}",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow"
     }
   }
 }
