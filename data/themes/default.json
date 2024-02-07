@@ -203,6 +203,10 @@
         "disabled": {
           "value": "{color.neutral.100}",
           "type": "color"
+        },
+        "active": {
+          "value": "{color.white}",
+          "type": "color"
         }
       },
       "border": {

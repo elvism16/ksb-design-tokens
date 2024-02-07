@@ -12,6 +12,10 @@
       "value": "3px",
       "type": "borderWidth"
     },
+    "400": {
+      "value": "4px",
+      "type": "borderWidth"
+    },
     "500": {
       "value": "5px",
       "type": "borderWidth"
