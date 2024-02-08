@@ -240,6 +240,10 @@
       "dark": {
         "value": "{color.blue.700}",
         "type": "color"
+      },
+      "neutral": {
+        "value": "{color.neutral.400}",
+        "type": "color"
       }
     }
   },
