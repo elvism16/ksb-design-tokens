@@ -221,6 +221,10 @@
         "disabled": {
           "value": "{semantic.input.disabled-text}",
           "type": "color"
+        },
+        "muted": {
+          "value": "{color.blue.500}",
+          "type": "color"
         }
       },
       "muted-text": {
