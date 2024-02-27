@@ -37,7 +37,7 @@
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.2xl}",
-            "lineHeight": "{lineHeight.s}"
+            "lineHeight": "{lineHeight.m}"
           },
           "type": "typography",
           "description": "Desktop"
@@ -47,7 +47,7 @@
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.xl}",
-            "lineHeight": "{lineHeight.s}"
+            "lineHeight": "{lineHeight.m}"
           },
           "type": "typography",
           "description": "Desktop"
@@ -89,7 +89,7 @@
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.lg}",
-            "lineHeight": "{lineHeight.s}"
+            "lineHeight": "{lineHeight.m}"
           },
           "type": "typography",
           "description": "Mobile"
@@ -99,7 +99,7 @@
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.md}",
-            "lineHeight": "{lineHeight.s}"
+            "lineHeight": "{lineHeight.m}"
           },
           "type": "typography",
           "description": "Mobile"
@@ -188,7 +188,7 @@
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.normal}",
           "fontSize": "{fontSize.md}",
-          "lineHeight": "{lineHeight.s}",
+          "lineHeight": "{lineHeight.l}",
           "letterSpacing": "{letterSpacing.default}"
         },
         "type": "typography",
@@ -265,7 +265,7 @@
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.xl}",
-            "lineHeight": "{lineHeight.s}"
+            "lineHeight": "{lineHeight.m}"
           },
           "type": "typography",
           "description": "Mobile"
@@ -307,7 +307,7 @@
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.normal}",
           "fontSize": "{fontSize.sm}",
-          "lineHeight": "{lineHeight.s}",
+          "lineHeight": "{lineHeight.button-small}",
           "letterSpacing": "{letterSpacing.default}"
         },
         "type": "typography"
@@ -425,7 +425,7 @@
           "fontFamily": "{fontFamilies.serif}",
           "fontWeight": "{fontWeight.bold-serif}",
           "fontSize": "{fontSize.2xl}",
-          "lineHeight": "{lineHeight.s}"
+          "lineHeight": "{lineHeight.m}"
         },
         "type": "typography",
         "description": "Desktop Mobile"
@@ -435,7 +435,7 @@
           "fontFamily": "{fontFamilies.serif}",
           "fontWeight": "{fontWeight.bold-serif}",
           "fontSize": "{fontSize.xl}",
-          "lineHeight": "{lineHeight.s}"
+          "lineHeight": "{lineHeight.m}"
         },
         "type": "typography",
         "description": "Desktop Mobile"

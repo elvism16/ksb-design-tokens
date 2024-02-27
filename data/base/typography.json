@@ -119,6 +119,10 @@
     "l": {
       "value": "150%",
       "type": "lineHeights"
+    },
+    "button-small": {
+      "value": "16px",
+      "type": "lineHeights"
     }
   },
   "letterSpacing": {
