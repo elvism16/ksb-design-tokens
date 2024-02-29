@@ -469,6 +469,26 @@
         },
         "type": "typography"
       }
+    },
+    "table": {
+      "header": {
+        "value": {
+          "fontFamily": "{fontFamilies.sans}",
+          "fontWeight": "{fontWeight.bold}",
+          "fontSize": "{fontSize.xs}",
+          "lineHeight": "{lineHeight.m}"
+        },
+        "type": "typography"
+      },
+      "cell": {
+        "value": {
+          "fontFamily": "{fontFamilies.sans}",
+          "fontWeight": "{fontWeight.normal}",
+          "fontSize": "{fontSize.sm}",
+          "lineHeight": "{lineHeight.m}"
+        },
+        "type": "typography"
+      }
     }
   }
 }
