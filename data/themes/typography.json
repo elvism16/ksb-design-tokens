@@ -488,6 +488,15 @@
           "lineHeight": "{lineHeight.m}"
         },
         "type": "typography"
+      },
+      "cell-bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.sans}",
+          "fontWeight": "{fontWeight.bold}",
+          "fontSize": "{fontSize.sm}",
+          "lineHeight": "{lineHeight.m}"
+        },
+        "type": "typography"
       }
     }
   }
