@@ -166,6 +166,10 @@
       "emphasis": {
         "value": "{color.green.300}",
         "type": "color"
+      },
+      "striped": {
+        "value": "{color.green.150}",
+        "type": "color"
       }
     },
     "warning": {
