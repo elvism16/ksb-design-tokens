@@ -168,7 +168,7 @@
         "type": "color"
       },
       "striped": {
-        "value": "{color.green.150}",
+        "value": "{color.green.50}",
         "type": "color"
       }
     },

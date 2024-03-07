@@ -113,12 +113,12 @@
       }
     },
     "green": {
-      "100": {
-        "value": "#E1FFE8",
+      "50": {
+        "value": "#F0FFF3",
         "type": "color"
       },
-      "150": {
-        "value": "#CEF1D6",
+      "100": {
+        "value": "#E1FFE8",
         "type": "color"
       },
       "200": {
