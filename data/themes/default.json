@@ -245,11 +245,15 @@
         "value": "{color.blue.300}",
         "type": "color"
       },
+      "dark": {
+        "value": "{color.blue.400}",
+        "type": "color"
+      },
       "light": {
         "value": "{color.blue.200}",
         "type": "color"
       },
-      "dark": {
+      "brand": {
         "value": "{color.blue.700}",
         "type": "color"
       },
