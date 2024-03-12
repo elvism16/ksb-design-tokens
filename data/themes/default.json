@@ -257,6 +257,10 @@
         "value": "{color.blue.700}",
         "type": "color"
       },
+      "black": {
+        "value": "{color.black}",
+        "type": "color"
+      },
       "neutral": {
         "value": "{color.neutral.400}",
         "type": "color"
