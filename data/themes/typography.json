@@ -118,7 +118,7 @@
     },
     "body": {
       "desktop": {
-        "large": {
+        "LG": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
@@ -130,7 +130,7 @@
         }
       },
       "mobile": {
-        "large": {
+        "LG": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
@@ -141,7 +141,7 @@
           "description": "Mobile"
         }
       },
-      "default": {
+      "MD": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.normal}",
@@ -149,9 +149,10 @@
           "lineHeight": "{lineHeight.l}",
           "letterSpacing": "{letterSpacing.default}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "Default body font size"
       },
-      "default-bold": {
+      "MD-bold": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",
@@ -159,9 +160,10 @@
           "lineHeight": "{lineHeight.l}",
           "letterSpacing": "{letterSpacing.default}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "Default body font size"
       },
-      "small": {
+      "SM": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.normal}",
@@ -171,7 +173,7 @@
         },
         "type": "typography"
       },
-      "small-bold": {
+      "SM-bold": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",
@@ -273,7 +275,7 @@
       }
     },
     "button": {
-      "default": {
+      "MD": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.normal}",
@@ -283,7 +285,7 @@
         },
         "type": "typography"
       },
-      "large": {
+      "LG": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.normal}",
@@ -292,7 +294,7 @@
         },
         "type": "typography"
       },
-      "extra-small": {
+      "XS": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.normal}",
@@ -302,7 +304,7 @@
         },
         "type": "typography"
       },
-      "small": {
+      "SM": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.normal}",
@@ -442,7 +444,7 @@
       }
     },
     "badge": {
-      "large": {
+      "LG": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",
@@ -451,7 +453,7 @@
         },
         "type": "typography"
       },
-      "default": {
+      "MD": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",
@@ -460,7 +462,7 @@
         },
         "type": "typography"
       },
-      "extra-small": {
+      "SM": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",

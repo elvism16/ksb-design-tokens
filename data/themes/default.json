@@ -34,10 +34,6 @@
       "subtle": {
         "value": "{color.blue.100}",
         "type": "color"
-      },
-      "onDark": {
-        "value": "{color.blue.300}",
-        "type": "color"
       }
     },
     "fg": {
@@ -202,10 +198,6 @@
       "background": {
         "default": {
           "value": "{color.blue.100}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{color.red.100}",
           "type": "color"
         },
         "disabled": {
