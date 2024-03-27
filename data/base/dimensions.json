@@ -1,9 +1,5 @@
 {
   "spacing": {
-    "0": {
-      "value": "0",
-      "type": "spacing"
-    },
     "100": {
       "value": "0.5rem",
       "type": "spacing",

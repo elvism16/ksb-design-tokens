@@ -35,54 +35,20 @@
         "value": "{color.blue.100}",
         "type": "color"
       },
-      "muted-text": {
-        "value": "{color.blue.400}",
-        "type": "color"
-      },
       "onDark": {
         "value": "{color.blue.300}",
-        "type": "color"
-      },
-      "disabled-text": {
-        "value": "{color.neutral.400}",
-        "type": "color"
-      }
-    },
-    "bg": {
-      "canvas": {
-        "value": "{color.white}",
-        "type": "color"
-      },
-      "inverted": {
-        "value": "{color.neutral.600}",
-        "type": "color"
-      },
-      "error": {
-        "value": "{color.red.100}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{color.green.100}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{color.yellow.100}",
-        "type": "color"
-      },
-      "info": {
-        "value": "{color.blue.200}",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "{color.blue.100}",
-        "type": "color"
-      },
-      "disabled": {
-        "value": "{color.neutral.200}",
         "type": "color"
       }
     },
     "fg": {
+      "muted": {
+        "value": "{color.blue.400}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.neutral.400}",
+        "type": "color"
+      },
       "default": {
         "value": "{color.black}",
         "type": "color"
@@ -141,6 +107,40 @@
       },
       "onDark": {
         "value": "{color.white}",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "canvas": {
+        "value": "{color.white}",
+        "type": "color"
+      },
+      "inverted": {
+        "value": "{color.neutral.600}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{color.red.100}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{color.green.100}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{color.yellow.100}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{color.blue.200}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.blue.100}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.neutral.200}",
         "type": "color"
       }
     },
