@@ -49,6 +49,10 @@
         "value": "{color.neutral.400}",
         "type": "color"
       },
+      "default sublte": {
+        "value": "{color.neutral.400}",
+        "type": "color"
+      },
       "default": {
         "value": "{color.black}",
         "type": "color"
