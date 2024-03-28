@@ -101,7 +101,7 @@
         "value": "{color.white}",
         "type": "color"
       },
-      "onTransparent": {
+      "brand": {
         "value": "{semantic.secondary.default}",
         "type": "color"
       },
