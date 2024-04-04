@@ -1,7 +1,7 @@
 {
   "fontFamilies": {
     "sans": {
-      "value": "Frutiger LT Std, -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif",
+      "value": "TT Interphases, -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif",
       "type": "fontFamilies"
     },
     "serif": {
@@ -87,22 +87,17 @@
       "description": "Serif"
     },
     "normal": {
-      "value": "55 Roman",
+      "value": "Regular",
       "type": "fontWeights",
       "description": "Sans"
     },
     "bold": {
-      "value": "65 Bold",
+      "value": "Bold",
       "type": "fontWeights",
       "description": "Sans"
     },
-    "ultra": {
-      "value": "95 Ultra Black",
-      "type": "fontWeights",
-      "description": "Sans"
-    },
-    "black": {
-      "value": "75 Black",
+    "medium": {
+      "value": "Medium",
       "type": "fontWeights",
       "description": "Sans"
     }

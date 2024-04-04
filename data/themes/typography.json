@@ -199,7 +199,7 @@
       "hint": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.normal}",
+          "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.xs}",
           "lineHeight": "{lineHeight.m}"
         },
@@ -209,7 +209,7 @@
       "label": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.normal}",
+          "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.xs}",
           "lineHeight": "{lineHeight.m}"
         },
@@ -278,7 +278,7 @@
       "MD": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.normal}",
+          "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.md}",
           "lineHeight": "{lineHeight.s}",
           "letterSpacing": "{letterSpacing.default}"
@@ -288,7 +288,7 @@
       "LG": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.normal}",
+          "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.lg}",
           "lineHeight": "{lineHeight.s}"
         },
@@ -297,7 +297,7 @@
       "XS": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.normal}",
+          "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.xs}",
           "lineHeight": "{lineHeight.s}",
           "letterSpacing": "{letterSpacing.default}"
@@ -307,7 +307,7 @@
       "SM": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.normal}",
+          "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.sm}",
           "lineHeight": "{lineHeight.button-small}",
           "letterSpacing": "{letterSpacing.default}"
@@ -360,7 +360,7 @@
         "campaign": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.ultra}",
+            "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.6xl}",
             "lineHeight": "{lineHeight.s}",
             "textCase": "{textCase.uppercase}"
@@ -413,7 +413,7 @@
         "campaign": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
-            "fontWeight": "{fontWeight.ultra}",
+            "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.2xl}",
             "lineHeight": "{lineHeight.s}",
             "textCase": "{textCase.uppercase}"
