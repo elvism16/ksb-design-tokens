@@ -9,20 +9,16 @@
         "value": "{color.orange.500}",
         "type": "color"
       },
-      "disabled": {
-        "value": "{color.neutral.300}",
-        "type": "color"
-      },
       "subtle": {
         "value": "{color.orange.200}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.neutral.300}",
         "type": "color"
       }
     },
     "secondary": {
-      "disabled": {
-        "value": "{color.neutral.300}",
-        "type": "color"
-      },
       "default": {
         "value": "{color.blue.700}",
         "type": "color"
@@ -33,6 +29,10 @@
       },
       "subtle": {
         "value": "{color.blue.100}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.neutral.300}",
         "type": "color"
       }
     },
@@ -199,6 +199,10 @@
         "value": "{semantic.secondary.default}",
         "type": "color"
       },
+      "muted-text": {
+        "value": "{color.blue.500}",
+        "type": "color"
+      },
       "disabled-text": {
         "value": "{color.neutral.400}",
         "type": "color"
@@ -222,22 +226,18 @@
           "value": "{semantic.secondary.default}",
           "type": "color"
         },
-        "error": {
-          "value": "{semantic.error.default}",
+        "muted": {
+          "value": "{color.blue.500}",
           "type": "color"
         },
         "disabled": {
           "value": "{semantic.input.disabled-text}",
           "type": "color"
         },
-        "muted": {
-          "value": "{color.blue.500}",
+        "error": {
+          "value": "{semantic.error.default}",
           "type": "color"
         }
-      },
-      "muted-text": {
-        "value": "{color.blue.400}",
-        "type": "color"
       }
     },
     "devider": {

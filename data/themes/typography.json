@@ -185,6 +185,15 @@
       }
     },
     "form": {
+      "label": {
+        "value": {
+          "fontFamily": "{fontFamilies.sans}",
+          "fontWeight": "{fontWeight.medium}",
+          "fontSize": "{fontSize.xs}",
+          "lineHeight": "{lineHeight.m}"
+        },
+        "type": "typography"
+      },
       "input": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
@@ -205,15 +214,6 @@
         },
         "type": "typography",
         "description": "We use this for helper text and error messages in form context"
-      },
-      "label": {
-        "value": {
-          "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.medium}",
-          "fontSize": "{fontSize.xs}",
-          "lineHeight": "{lineHeight.m}"
-        },
-        "type": "typography"
       }
     },
     "caption": {
@@ -275,16 +275,6 @@
       }
     },
     "button": {
-      "MD": {
-        "value": {
-          "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.medium}",
-          "fontSize": "{fontSize.md}",
-          "lineHeight": "{lineHeight.s}",
-          "letterSpacing": "{letterSpacing.default}"
-        },
-        "type": "typography"
-      },
       "LG": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
@@ -294,11 +284,11 @@
         },
         "type": "typography"
       },
-      "XS": {
+      "MD": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.medium}",
-          "fontSize": "{fontSize.xs}",
+          "fontSize": "{fontSize.md}",
           "lineHeight": "{lineHeight.s}",
           "letterSpacing": "{letterSpacing.default}"
         },
@@ -310,6 +300,16 @@
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.sm}",
           "lineHeight": "{lineHeight.button-small}",
+          "letterSpacing": "{letterSpacing.default}"
+        },
+        "type": "typography"
+      },
+      "XS": {
+        "value": {
+          "fontFamily": "{fontFamilies.sans}",
+          "fontWeight": "{fontWeight.medium}",
+          "fontSize": "{fontSize.xs}",
+          "lineHeight": "{lineHeight.s}",
           "letterSpacing": "{letterSpacing.default}"
         },
         "type": "typography"
