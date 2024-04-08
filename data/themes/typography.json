@@ -144,7 +144,7 @@
       "MD": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.normal}",
+          "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.md}",
           "lineHeight": "{lineHeight.l}",
           "letterSpacing": "{letterSpacing.default}"
@@ -166,7 +166,7 @@
       "SM": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.normal}",
+          "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.sm}",
           "lineHeight": "{lineHeight.l}",
           "letterSpacing": "{letterSpacing.default}"
@@ -197,7 +197,7 @@
       "input": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.normal}",
+          "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.md}",
           "lineHeight": "{lineHeight.l}",
           "letterSpacing": "{letterSpacing.default}"
@@ -220,7 +220,7 @@
       "caption": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.normal}",
+          "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.xs}",
           "lineHeight": "{lineHeight.m}",
           "letterSpacing": "{letterSpacing.default}"
@@ -485,7 +485,7 @@
       "cell": {
         "value": {
           "fontFamily": "{fontFamilies.sans}",
-          "fontWeight": "{fontWeight.normal}",
+          "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.sm}",
           "lineHeight": "{lineHeight.m}"
         },
