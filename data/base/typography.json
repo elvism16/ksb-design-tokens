@@ -103,8 +103,12 @@
     }
   },
   "lineHeight": {
-    "s": {
+    "xs": {
       "value": "100%",
+      "type": "lineHeights"
+    },
+    "s": {
+      "value": "110%",
       "type": "lineHeights"
     },
     "m": {
@@ -122,7 +126,7 @@
   },
   "letterSpacing": {
     "default": {
-      "value": "1%",
+      "value": "1,5%",
       "type": "letterSpacing"
     }
   },
