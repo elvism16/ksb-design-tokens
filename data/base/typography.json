@@ -126,7 +126,7 @@
   },
   "letterSpacing": {
     "default": {
-      "value": "1,5%",
+      "value": "1.5%",
       "type": "letterSpacing"
     }
   },
