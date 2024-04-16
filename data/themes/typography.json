@@ -2,6 +2,16 @@
   "font": {
     "headline-default": {
       "desktop": {
+        "headline-XXXL": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.10xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Desktop"
+        },
         "headline-XXL": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
@@ -54,6 +64,16 @@
         }
       },
       "mobile": {
+        "headline-XXXL": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.6xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Mobile"
+        },
         "headline-XXL": {
           "value": {
             "fontFamily": "{fontFamilies.sans}",
