@@ -60,6 +60,11 @@
       "type": "spacing",
       "description": "96px"
     },
+    "1500": {
+      "value": "7.5 rem",
+      "type": "spacing",
+      "description": "120px"
+    },
     "2000": {
       "value": "10rem",
       "type": "spacing",
