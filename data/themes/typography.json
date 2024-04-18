@@ -271,6 +271,16 @@
           },
           "type": "typography",
           "description": "Desktop"
+        },
+        "MD-bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.medium}",
+            "fontSize": "{fontSize.4xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Desktop"
         }
       },
       "mobile": {
@@ -288,6 +298,16 @@
           "value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
+            "fontSize": "{fontSize.xl}",
+            "lineHeight": "{lineHeight.s}"
+          },
+          "type": "typography",
+          "description": "Mobile"
+        },
+        "MD-bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.sans}",
+            "fontWeight": "{fontWeight.medium}",
             "fontSize": "{fontSize.xl}",
             "lineHeight": "{lineHeight.s}"
           },

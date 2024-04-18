@@ -50,6 +50,11 @@
       "type": "spacing",
       "description": "64px"
     },
+    "900": {
+      "value": "4.5rem",
+      "type": "spacing",
+      "description": "72px"
+    },
     "1000": {
       "value": "5rem",
       "type": "spacing",
