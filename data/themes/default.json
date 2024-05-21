@@ -240,7 +240,7 @@
         }
       }
     },
-    "devider": {
+    "divider": {
       "default": {
         "value": "{color.blue.300}",
         "type": "color"
