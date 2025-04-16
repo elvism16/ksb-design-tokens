@@ -1,44 +1,44 @@
 {
   "zIndex": {
     "1": {
-      "value": "1000",
-      "type": "other"
+      "$type": "other",
+      "$value": "1000"
     },
     "2": {
-      "value": "1001",
-      "type": "other"
+      "$type": "other",
+      "$value": "1001"
     },
     "5": {
-      "value": "5000",
-      "type": "other"
+      "$type": "other",
+      "$value": "5000"
     },
     "6": {
-      "value": "6000",
-      "type": "other"
+      "$type": "other",
+      "$value": "6000"
     },
     "7": {
-      "value": "7000",
-      "type": "other"
+      "$type": "other",
+      "$value": "7000"
     },
     "8": {
-      "value": "8000",
-      "type": "other"
+      "$type": "other",
+      "$value": "8000"
     },
     "9": {
-      "value": "9000",
-      "type": "other"
+      "$type": "other",
+      "$value": "9000"
     },
     "default": {
-      "value": "1",
-      "type": "other"
+      "$type": "other",
+      "$value": "1"
     },
     "shallow": {
-      "value": "-1",
-      "type": "other"
+      "$type": "other",
+      "$value": "-1"
     },
     "deep": {
-      "value": "-9999",
-      "type": "other"
+      "$type": "other",
+      "$value": "-9999"
     }
   }
 }

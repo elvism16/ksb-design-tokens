@@ -3,544 +3,544 @@
     "headline-default": {
       "desktop": {
         "headline-XXXL": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.10xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         },
         "headline-XXL": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.8xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         },
         "headline-XL": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.6xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         },
         "headline-LG": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.4xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         },
         "headline-MD": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.2xl}",
             "lineHeight": "{lineHeight.m}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         },
         "headline-SM": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.xl}",
             "lineHeight": "{lineHeight.m}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         }
       },
       "mobile": {
         "headline-XXXL": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.6xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         },
         "headline-XXL": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.4xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         },
         "headline-XL": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.2xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         },
         "headline-LG": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         },
         "headline-MD": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.lg}",
             "lineHeight": "{lineHeight.m}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         },
         "headline-SM": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.md}",
             "lineHeight": "{lineHeight.m}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         }
       },
       "headline-XS": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",
           "fontSize": "{fontSize.sm}",
           "lineHeight": "{lineHeight.m}"
         },
-        "type": "typography",
-        "description": "Desktop Mobile"
+        "$description": "Desktop Mobile"
       }
     },
     "body": {
       "desktop": {
         "LG": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.2xl}",
             "lineHeight": "{lineHeight.m}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         }
       },
       "mobile": {
         "LG": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.xl}",
             "lineHeight": "{lineHeight.m}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         }
       },
       "MD": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.md}",
           "lineHeight": "{lineHeight.l}",
           "letterSpacing": "{letterSpacing.default}"
         },
-        "type": "typography",
-        "description": "Default body font size"
+        "$description": "Default body font size"
       },
       "MD-bold": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",
           "fontSize": "{fontSize.md}",
           "lineHeight": "{lineHeight.l}",
           "letterSpacing": "{letterSpacing.default}"
         },
-        "type": "typography",
-        "description": "Default body font size"
+        "$description": "Default body font size"
       },
       "SM": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.sm}",
           "lineHeight": "{lineHeight.l}",
           "letterSpacing": "{letterSpacing.default}"
-        },
-        "type": "typography"
+        }
       },
       "SM-bold": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",
           "fontSize": "{fontSize.sm}",
           "lineHeight": "{lineHeight.l}",
           "letterSpacing": "{letterSpacing.default}"
-        },
-        "type": "typography"
+        }
       }
     },
     "form": {
       "label": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.xs}",
           "lineHeight": "{lineHeight.m}",
           "letterSpacing": "{letterSpacing.default}"
-        },
-        "type": "typography"
+        }
       },
       "input": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.md}",
           "lineHeight": "{lineHeight.l}",
           "letterSpacing": "{letterSpacing.default}"
         },
-        "type": "typography",
-        "description": "We use this for input value and placeholder"
+        "$description": "We use this for input value and placeholder"
       },
       "hint": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.xs}",
           "lineHeight": "{lineHeight.m}",
           "letterSpacing": "{letterSpacing.default}"
         },
-        "type": "typography",
-        "description": "We use this for helper text and error messages in form context"
+        "$description": "We use this for helper text and error messages in form context"
       }
     },
     "caption": {
       "caption": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.xs}",
           "lineHeight": "{lineHeight.m}",
           "letterSpacing": "{letterSpacing.default}"
-        },
-        "type": "typography"
+        }
       }
     },
     "quote": {
       "desktop": {
         "LG": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.8xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         },
         "MD": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.4xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         },
         "MD-bold": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.medium}",
             "fontSize": "{fontSize.4xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         }
       },
       "mobile": {
         "LG": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.4xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         },
         "MD": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.normal}",
             "fontSize": "{fontSize.xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         },
         "MD-bold": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.medium}",
             "fontSize": "{fontSize.xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         }
       }
     },
     "button": {
       "LG": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.lg}",
           "lineHeight": "{lineHeight.xs}"
-        },
-        "type": "typography"
+        }
       },
       "MD": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.md}",
           "lineHeight": "{lineHeight.xs}",
           "letterSpacing": "{letterSpacing.default}"
-        },
-        "type": "typography"
+        }
       },
       "SM": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.sm}",
           "lineHeight": "{lineHeight.button-small}",
           "letterSpacing": "{letterSpacing.default}"
-        },
-        "type": "typography"
+        }
       },
       "XS": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.xs}",
           "lineHeight": "{lineHeight.xs}",
           "letterSpacing": "{letterSpacing.default}"
-        },
-        "type": "typography"
+        }
       }
     },
     "headline-display": {
       "desktop": {
         "display-XXL": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.serif}",
             "fontWeight": "{fontWeight.bold-serif}",
             "fontSize": "{fontSize.10xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         },
         "display-XL": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.serif}",
             "fontWeight": "{fontWeight.regular-serif}",
             "fontSize": "{fontSize.9xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         },
         "display-LG": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.serif}",
             "fontWeight": "{fontWeight.bold-serif}",
             "fontSize": "{fontSize.4xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         },
         "display-MD": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.serif}",
             "fontWeight": "{fontWeight.regular-serif}",
             "fontSize": "{fontSize.4xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         },
         "campaign": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.6xl}",
             "lineHeight": "{lineHeight.xs}",
             "textCase": "{textCase.uppercase}"
           },
-          "type": "typography",
-          "description": "Desktop"
+          "$description": "Desktop"
         }
       },
       "mobile": {
         "display-XXL": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.serif}",
             "fontWeight": "{fontWeight.bold-serif}",
             "fontSize": "{fontSize.6xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         },
         "display-XL": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.serif}",
             "fontWeight": "{fontWeight.bold-serif}",
             "fontSize": "{fontSize.4xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         },
         "display-LG": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.serif}",
             "fontWeight": "{fontWeight.bold-serif}",
             "fontSize": "{fontSize.2xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         },
         "display-MD": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.serif}",
             "fontWeight": "{fontWeight.regular-serif}",
             "fontSize": "{fontSize.2xl}",
             "lineHeight": "{lineHeight.s}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         },
         "campaign": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{fontFamilies.sans}",
             "fontWeight": "{fontWeight.bold}",
             "fontSize": "{fontSize.2xl}",
             "lineHeight": "{lineHeight.xs}",
             "textCase": "{textCase.uppercase}"
           },
-          "type": "typography",
-          "description": "Mobile"
+          "$description": "Mobile"
         }
       },
       "display-SM": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.serif}",
           "fontWeight": "{fontWeight.bold-serif}",
           "fontSize": "{fontSize.2xl}",
           "lineHeight": "{lineHeight.m}"
         },
-        "type": "typography",
-        "description": "Desktop Mobile"
+        "$description": "Desktop Mobile"
       },
       "display-XS": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.serif}",
           "fontWeight": "{fontWeight.bold-serif}",
           "fontSize": "{fontSize.xl}",
           "lineHeight": "{lineHeight.m}"
         },
-        "type": "typography",
-        "description": "Desktop Mobile"
+        "$description": "Desktop Mobile"
       }
     },
     "badge": {
       "LG": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",
           "fontSize": "{fontSize.sm}",
           "lineHeight": "{lineHeight.xs}"
-        },
-        "type": "typography"
+        }
       },
       "MD": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",
           "fontSize": "{fontSize.xs}",
           "lineHeight": "{lineHeight.xs}"
-        },
-        "type": "typography"
+        }
       },
       "SM": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",
           "fontSize": "{fontSize.xxxs}",
           "lineHeight": "{lineHeight.xs}"
-        },
-        "type": "typography"
+        }
       }
     },
     "table": {
       "header": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",
           "fontSize": "{fontSize.xs}",
           "lineHeight": "{lineHeight.m}"
-        },
-        "type": "typography"
+        }
       },
       "cell": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.sm}",
           "lineHeight": "{lineHeight.m}"
-        },
-        "type": "typography"
+        }
       },
       "cell-bold": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{fontFamilies.sans}",
           "fontWeight": "{fontWeight.bold}",
           "fontSize": "{fontSize.sm}",
           "lineHeight": "{lineHeight.m}"
-        },
-        "type": "typography"
+        }
       }
     }
   }

@@ -1,18 +1,19 @@
 {
   "box-shadow": {
     "flat": {
-      "value": {
+      "$type": "boxShadow",
+      "$value": {
         "x": "0",
         "y": "0",
         "blur": "0",
         "spread": "0",
         "color": "#000000",
         "type": "dropShadow"
-      },
-      "type": "boxShadow"
+      }
     },
     "raised": {
-      "value": [
+      "$type": "boxShadow",
+      "$value": [
         {
           "x": "0",
           "y": "2",
@@ -29,11 +30,11 @@
           "color": "#1D1D1B20",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "elevated": {
-      "value": [
+      "$type": "boxShadow",
+      "$value": [
         {
           "x": "0",
           "y": "08",
@@ -50,11 +51,11 @@
           "color": "#00000029",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "floating": {
-      "value": [
+      "$type": "boxShadow",
+      "$value": [
         {
           "x": "0",
           "y": "24",
@@ -71,19 +72,18 @@
           "color": "#00000029",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "inner": {
-      "value": {
+      "$type": "boxShadow",
+      "$value": {
         "x": "0",
         "y": "0",
         "blur": "0",
         "spread": "3",
         "color": "{semantic.bg.canvas}",
         "type": "innerShadow"
-      },
-      "type": "boxShadow"
+      }
     }
   }
 }

@@ -2,272 +2,272 @@
   "semantic": {
     "primary": {
       "default": {
-        "value": "{color.orange.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.orange.700}"
       },
       "muted": {
-        "value": "{color.orange.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.orange.500}"
       },
       "subtle": {
-        "value": "{color.orange.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.orange.200}"
       },
       "disabled": {
-        "value": "{color.neutral.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.neutral.300}"
       }
     },
     "secondary": {
       "default": {
-        "value": "{color.blue.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.blue.700}"
       },
       "muted": {
-        "value": "{color.blue.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.blue.500}"
       },
       "subtle": {
-        "value": "{color.blue.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.blue.100}"
       },
       "disabled": {
-        "value": "{color.neutral.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.neutral.300}"
       }
     },
     "fg": {
       "muted": {
-        "value": "{color.blue.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.blue.400}"
       },
       "mutedDark": {
-        "value": "{color.blue.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.blue.500}"
       },
       "disabled": {
-        "value": "{color.neutral.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.neutral.400}"
       },
       "default sublte": {
-        "value": "{color.neutral.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.neutral.500}"
       },
       "default": {
-        "value": "{color.black}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.black}"
       },
       "onPrimary": {
-        "value": "{color.white}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.white}"
       },
       "onSecondary": {
-        "value": "{color.white}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.white}"
       },
       "onError": {
-        "value": "{color.white}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.white}"
       },
       "onErrorLight": {
-        "value": "{color.neutral.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.neutral.700}"
       },
       "onErrorDark": {
-        "value": "{color.white}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.white}"
       },
       "onWarning": {
-        "value": "{color.white}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.white}"
       },
       "onWarningLight": {
-        "value": "{color.neutral.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.neutral.700}"
       },
       "onWarningDark": {
-        "value": "{color.white}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.white}"
       },
       "onSuccess": {
-        "value": "{color.white}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.white}"
       },
       "onSuccessLight": {
-        "value": "{color.neutral.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.neutral.700}"
       },
       "onSuccessDark": {
-        "value": "{color.white}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.white}"
       },
       "onDisabled": {
-        "value": "{color.white}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.white}"
       },
       "brand": {
-        "value": "{semantic.secondary.default}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{semantic.secondary.default}"
       },
       "onDark": {
-        "value": "{color.white}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.white}"
       }
     },
     "bg": {
       "canvas": {
-        "value": "{color.white}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.white}"
       },
       "inverted": {
-        "value": "{color.neutral.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.neutral.600}"
       },
       "error": {
-        "value": "{color.red.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.red.100}"
       },
       "success": {
-        "value": "{color.green.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.green.100}"
       },
       "warning": {
-        "value": "{color.yellow.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.yellow.100}"
       },
       "info": {
-        "value": "{color.blue.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.blue.200}"
       },
       "subtle": {
-        "value": "{color.blue.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.blue.100}"
       },
       "disabled": {
-        "value": "{color.neutral.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.neutral.200}"
       }
     },
     "error": {
       "default": {
-        "value": "{color.red.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.red.200}"
       },
       "muted": {
-        "value": "{color.red.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.red.100}"
       },
       "emphasis": {
-        "value": "{color.red.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.red.300}"
       }
     },
     "success": {
       "default": {
-        "value": "{color.green.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.green.200}"
       },
       "muted": {
-        "value": "{color.green.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.green.100}"
       },
       "emphasis": {
-        "value": "{color.green.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.green.300}"
       },
       "striped": {
-        "value": "{color.green.50}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.green.50}"
       }
     },
     "warning": {
       "default": {
-        "value": "{color.yellow.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.yellow.200}"
       },
       "muted": {
-        "value": "{color.yellow.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.yellow.100}"
       },
       "emphasis": {
-        "value": "{color.yellow.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.yellow.300}"
       }
     },
     "input": {
       "default-text": {
-        "value": "{semantic.secondary.default}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{semantic.secondary.default}"
       },
       "muted-text": {
-        "value": "{color.blue.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.blue.500}"
       },
       "disabled-text": {
-        "value": "{color.neutral.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.neutral.400}"
       },
       "background": {
         "default": {
-          "value": "{color.blue.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.blue.100}"
         },
         "disabled": {
-          "value": "{color.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.neutral.100}"
         },
         "active": {
-          "value": "{color.white}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.white}"
         }
       },
       "border": {
         "default": {
-          "value": "{semantic.secondary.default}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{semantic.secondary.default}"
         },
         "muted": {
-          "value": "{color.blue.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.blue.500}"
         },
         "disabled": {
-          "value": "{semantic.input.disabled-text}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{semantic.input.disabled-text}"
         },
         "error": {
-          "value": "{semantic.error.default}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{semantic.error.default}"
         }
       }
     },
     "divider": {
       "default": {
-        "value": "{color.blue.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.blue.300}"
       },
       "dark": {
-        "value": "{color.blue.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.blue.400}"
       },
       "light": {
-        "value": "{color.blue.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.blue.200}"
       },
       "brand": {
-        "value": "{color.blue.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.blue.700}"
       },
       "neutral": {
-        "value": "{color.neutral.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.neutral.400}"
       }
     }
   },
   "max-page-width": {
     "default": {
-      "value": "1464px",
-      "type": "other",
-      "description": "maximum page width"
+      "$type": "other",
+      "$value": "1464px",
+      "$description": "maximum page width"
     }
   }
 }

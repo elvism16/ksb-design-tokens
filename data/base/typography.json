@@ -1,139 +1,139 @@
 {
   "fontFamilies": {
     "sans": {
-      "value": "TT Interphases, -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif",
-      "type": "fontFamilies"
+      "$type": "fontFamilies",
+      "$value": "TT Interphases, -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif"
     },
     "serif": {
-      "value": "Sabon",
-      "type": "fontFamilies"
+      "$type": "fontFamilies",
+      "$value": "Sabon"
     }
   },
   "fontSize": {
     "md": {
-      "value": "16px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "16px"
     },
     "lg": {
-      "value": "18px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "18px"
     },
     "xl": {
-      "value": "20px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "20px"
     },
     "2xl": {
-      "value": "24px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "24px"
     },
     "3xl": {
-      "value": "28px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "28px"
     },
     "4xl": {
-      "value": "32px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "32px"
     },
     "5xl": {
-      "value": "36px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "36px"
     },
     "6xl": {
-      "value": "42px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "42px"
     },
     "7xl": {
-      "value": "48px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "48px"
     },
     "8xl": {
-      "value": "54px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "54px"
     },
     "9xl": {
-      "value": "64px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "64px"
     },
     "10xl": {
-      "value": "72px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "72px"
     },
     "sm": {
-      "value": "14px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "14px"
     },
     "xs": {
-      "value": "12px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "12px"
     },
     "xxs": {
-      "value": "11px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "11px"
     },
     "xxxs": {
-      "value": "9px",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "9px"
     }
   },
   "fontWeight": {
     "regular-serif": {
-      "value": "Regular",
-      "type": "fontWeights",
-      "description": "Serif"
+      "$type": "fontWeights",
+      "$value": "Regular",
+      "$description": "Serif"
     },
     "bold-serif": {
-      "value": "Bold",
-      "type": "fontWeights",
-      "description": "Serif"
+      "$type": "fontWeights",
+      "$value": "Bold",
+      "$description": "Serif"
     },
     "normal": {
-      "value": "Regular",
-      "type": "fontWeights",
-      "description": "Sans"
+      "$type": "fontWeights",
+      "$value": "Regular",
+      "$description": "Sans"
     },
     "bold": {
-      "value": "Bold",
-      "type": "fontWeights",
-      "description": "Sans"
+      "$type": "fontWeights",
+      "$value": "Bold",
+      "$description": "Sans"
     },
     "medium": {
-      "value": "Medium",
-      "type": "fontWeights",
-      "description": "Sans"
+      "$type": "fontWeights",
+      "$value": "Medium",
+      "$description": "Sans"
     }
   },
   "lineHeight": {
     "xs": {
-      "value": "100%",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "100%"
     },
     "s": {
-      "value": "110%",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "110%"
     },
     "m": {
-      "value": "125%",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "125%"
     },
     "l": {
-      "value": "150%",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "150%"
     },
     "button-small": {
-      "value": "16px",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "16px"
     }
   },
   "letterSpacing": {
     "default": {
-      "value": "1.5%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "1.5%"
     }
   },
   "textCase": {
     "uppercase": {
-      "value": "uppercase",
-      "type": "textCase"
+      "$type": "textCase",
+      "$value": "uppercase"
     }
   }
 }

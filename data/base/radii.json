@@ -1,8 +1,8 @@
 {
   "radii": {
     "default": {
-      "value": "16px",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "16px"
     }
   }
 }
